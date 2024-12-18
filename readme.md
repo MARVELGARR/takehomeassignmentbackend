@@ -62,8 +62,7 @@ npm run serve
 ## Deployment
 This project is deployed on Vercel, which automatically handles the build and deployment process for TypeScript applications.
 
-## Environment Variables
-Ensure to set up any necessary environment variables in your `.env` file or Vercel project settings.
+
 
 ## Contributing
 1. Fork the repository
@@ -73,7 +72,7 @@ Ensure to set up any necessary environment variables in your `.env` file or Verc
 5. Open a Pull Request
 
 ## License
-[Add your license information here]
+None
 
 ## Contact
 - Project Link: [https://github.com/MARVELGARR/takehomeassignmentbackend](https://github.com/MARVELGARR/takehomeassignmentbackend)
