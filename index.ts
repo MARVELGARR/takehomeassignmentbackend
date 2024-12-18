@@ -8,7 +8,7 @@ const port = 3002;
 app.use(express.json());
 
 const corsOptions = {
-    origin: ['http://localhost:3000', 'https://your-domain.com'], // Allowed origins
+    origin: ['http://localhost:3001','http://localhost:3002', 'https://your-domain.com'], // Allowed origins
     methods: ['GET', 'POST', 'PUT', 'DELETE'], // Allowed HTTP methods
     allowedHeaders: ['Content-Type', 'Authorization'], // Allowed headers
     credentials: true, // Allow cookies and credentials
